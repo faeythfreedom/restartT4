@@ -62,8 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\SelectForNavigation.cs" />
-    <Compile Include="Assets\Scripts\triggerButtonWithKey.cs" />
+    <Compile Include="Assets\Scripts\MenuScripts\QuitGame.cs" />
+    <Compile Include="Assets\Scripts\MenuScripts\SelectForNavigation.cs" />
+    <Compile Include="Assets\Scripts\MenuScripts\triggerButtonWithKey.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -595,6 +596,9 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.PixelPerfect.Editor">
+      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -613,23 +617,20 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.PixelPerfect">
+      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.PixelPerfect.Editor">
-      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.PixelPerfect">
-      <HintPath>C:/Users/user/Documents/restartT4/TeamFour/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
